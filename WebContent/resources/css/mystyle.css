@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.mylogin
+{
+	border: 4px double gray;
+	border-radius: 5px;
+	padding: 20px;
+	height: 300px;
+}
